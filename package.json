@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "web3": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12"
+  }
+}
